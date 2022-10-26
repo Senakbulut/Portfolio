@@ -1,0 +1,384 @@
+{
+    "data": [
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "SenaPortfolio",
+            "createdAt": "2020-11",
+            "url": "https://github.com/Senakbulut/senakbulut.github.io",
+            "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                },
+                {
+                    "name":"ReactJS",
+                    "iconifyClass":"logos-react"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "shake-tree-app",
+            "createdAt": "2021-08",
+            "url": "https://github.com/Senakbulut/shaking-tree-app",
+            "description": "I implemented the project in which I provided animations and components to communicate with each other with React js, I provided the style properties with Sass and I used Webpack as the module bundler. Visit the website here : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "SASS",
+                    "iconifyClass": "logos-sass"
+                },
+                {
+                    "name":"ReactJS",
+                    "iconifyClass":"logos-react"
+                },
+                {
+                    "name":"Webpack",
+                    "iconifyClass":"logos-webpack"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "Recipe-Card",
+            "createdAt": "2021-10",
+            "url": "https://github.com/Senakbulut/Recipe-Card",
+            "description": "In this project we create the card to display for each dish on a recipe website. The Card Component in the project shows the details of a recipe, its author, the number of likes and some information about whether the user liked the recipe or not. Visit the website here : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name":"ReactJS",
+                    "iconifyClass":"logos-react"
+                },
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                }
+            
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "Random Yazi-Tura",
+            "createdAt": "2021-10",
+            "url": "https://github.com/Senakbulut/Random-Yazi-Tura",
+            "description": "I made a coin flip game with React, which only needs a coin, is very easy to play and is common almost everywhere in the world. Visit the website here : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name":"ReactJS",
+                    "iconifyClass":"logos-react"
+                },
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                }
+            
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "Vuex-Todo-Manager",
+            "createdAt": "2021-09",
+            "url": "https://github.com/Senakbulut/Vuex-Todo-Manager",
+            "description":"With Vue Js and vuex, I developed todo app. Visit the website here :",
+            "isFork": false,
+            "languages": [
+                {
+                    "name":"VueJs",
+                    "iconifyClass":"logos-vue"
+                },
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                }
+            
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "Art-Arch",
+            "createdAt": "2021-03",
+            "url": "https://github.com/Senakbulut/Art-Arch",
+            "description": "It is the project where I coded the website design that I designed myself, which is about artistic architectural structures. Visit the website here : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name":"ReactJS",
+                    "iconifyClass":"logos-react"
+                },
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name": "JavaScript",
+                    "iconifyClass": "logos-javascript"
+                }
+            
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "SocialMediaDashboard",
+            "createdAt": "2021-07",
+            "url": "https://github.com/Senakbulut/SocialMediaDashboard",
+            "description": "I made the dashboard structure that I pulled data from Json with React Js. Visit the website here : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name":"ReactJS",
+                    "iconifyClass":"logos-react"
+                }
+            
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "ForeksIntern",
+            "createdAt": "2021-02",
+            "url": "https://github.com/Senakbulut/ForeksIntern",
+            "description": "With Vue Js, I provided the dashboard structure with a flexible structure using CSS grid. Visit the website here : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name":"VueJs",
+                    "iconifyClass":"logos-vue"
+                }
+            
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "ShoppingChart",
+            "createdAt": "2021-04",
+            "url": "https://github.com/Senakbulut/ShoppingChart",
+            "description": "It is a shopping application that provides state management with React Hooks. Visit the website here : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name":"ReactJS",
+                    "iconifyClass":"logos-react"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "Webpack-setup",
+            "createdAt": "2021-08",
+            "url": "https://github.com/Senakbulut/Webpack-setup",
+            "description": "It is a Webpack module bundler installation project. The relationship with Javascript is provided. You can visit project by : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name":"Javascript",
+                    "iconifyClass":"logos-javascript"
+                },
+                {
+                    "name":"Webpack",
+                    "iconifyClass":"logos-webpack"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "BarChart",
+            "createdAt": "2021-04",
+            "url": "https://github.com/Senakbulut/BarChart",
+            "description": "The data drawn from the API was visualized using graphics. You can visit project by : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name":"React",
+                    "iconifyClass":"logos-react"
+                },
+                {
+                    "name":"Css",
+                    "iconifyClass":"logos-css-3"
+                },
+                {
+                    "name":"ChartJs",
+                    "iconifyClass":"logos-chartjs"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "Sass-Scss",
+            "createdAt": "2021-08",
+            "url": "https://github.com/Senakbulut/Sass-Scss",
+            "description": "There are examples showing the features of Sass and Scss in practice. You can visit project by : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name":"Sass/Scss",
+                    "iconifyClass":"logos-sass"
+                },
+                {
+                    "name":"Css",
+                    "iconifyClass":"logos-css-3"
+                },
+                {
+                    "name":"Html",
+                    "iconifyClass":"logos-html-5"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+            "name": "Momentum_ChromeExtension",
+            "createdAt": "2021-04",
+            "url": "https://github.com/Senakbulut/Momentum_ChromeExtension",
+            "description": "It is a project to realize the popular Chrome extension Momentum. You can visit project by : ",
+            "isFork": false,
+            "languages": [
+                {
+                    "name":"Javascript",
+                    "iconifyClass":"logos-javascript"
+                },
+                {
+                    "name":"Css",
+                    "iconifyClass":"logos-css-3"
+                },
+                {
+                    "name":"Html",
+                    "iconifyClass":"logos-html-5"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+            "name": "website-design",
+            "createdAt": "2020",
+            "url": "https://github.com/Senakbulut/website-design",
+            "description": "There are different website designs with both responsive and static features. You can visit project by:",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+            "name": "Animations",
+            "createdAt": "2020",
+            "url": "https://github.com/Senakbulut/Animations",
+            "description": "There are different animations made with CSS and Javascript.You can visit project by:",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "HTML",
+                    "iconifyClass": "logos-html-5"
+                },
+                {
+                    "name": "CSS",
+                    "iconifyClass": "logos-css-3"
+                },
+                {
+                    "name":"JavaScript",
+                    "iconifyClass":"logos-javascript"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+            "name": "Cpp_projects",
+            "createdAt": "2019",
+            "url": "https://github.com/Senakbulut/Cpp_projects",
+            "description": "Different projects made with C ++. You can visit project by:",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "C++",
+                    "iconifyClass": "logos-c-plusplus"
+                }
+            ]
+        },
+        {
+            "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+            "name": "C_projects",
+            "createdAt": "2018",
+            "url": "https://github.com/Senakbulut/C_projects",
+            "description": "Different projects made with C. You can visit project by:",
+            "isFork": false,
+            "languages": [
+                {
+                    "name": "C",
+                    "iconifyClass": "logos-c"
+                }
+            ]
+        }
+    ]
+}

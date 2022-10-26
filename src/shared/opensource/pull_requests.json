@@ -1,0 +1,421 @@
+{
+    "data": [
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
+        "title": "responsive style update",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/106",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-07-02",
+        "number": 106,
+        "changedFiles": 6,
+        "additions": 6,
+        "deletions": 0,
+        "baseRepository": {
+          "name": "Back-to-Life",
+          "url": "https://github.com/Back-to-Life/BackToLife-Web",
+          "owner": {
+            "avatarUrl": "",
+            "login": "",
+            "url": ""
+          }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA5MDU3MDUz",
+        "title": "sign up page optimization",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/105",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-07-02",
+        "number": 105,
+        "changedFiles": 141,
+        "additions": 47,
+        "deletions": 94,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA4OTAxNTAy",
+        "title": "last updates vol3",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/104",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-07-02",
+        "number": 104,
+        "changedFiles": 17,
+        "additions": 15,
+        "deletions": 2,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA4ODY0NDU1",
+        "title": "Atranslation problem fixed",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/103",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-07-02",
+        "number": 103,
+        "changedFiles": 7,
+        "additions": 4,
+        "deletions": 3,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0",
+        "title": "Feature/user",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/102",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-07-02",
+        "number": 102,
+        "changedFiles": 20,
+        "additions": 0,
+        "deletions": 20,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0",
+        "title": "Feature/finish",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/101",
+        "state": "CLOSED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-07-01",
+        "number": 101,
+        "changedFiles": 294,
+        "additions": 114,
+        "deletions": 180,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA3MDkwMTk5",
+        "title": "Last arrangement",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/100",
+        "state": "CLOSED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-07-01",
+        "number": 100,
+        "changedFiles": 292,
+        "additions": 114,
+        "deletions": 178,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "signup problem fix",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/98",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-26",
+        "number": 98,
+        "changedFiles": 97,
+        "additions": 11,
+        "deletions": 86,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "signup vol1",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/96",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-26",
+        "number": 96,
+        "changedFiles": 426,
+        "additions": 415,
+        "deletions": 11,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "firebase config settings changed",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/95",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-26",
+        "number": 95,
+        "changedFiles": 55,
+        "additions": 31,
+        "deletions": 22,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "points page responsive updated ",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/94",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-26",
+        "number": 94,
+        "changedFiles": 2,
+        "additions": 2,
+        "deletions": 0,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "mobile responsive version added",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/93",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-26",
+        "number": 93,
+        "changedFiles": 14,
+        "additions": 14,
+        "deletions": 0,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "sign in-up screnn updated ",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/92",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-24",
+        "number": 92,
+        "changedFiles": 42,
+        "additions": 40,
+        "deletions": 2,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },  {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "forms required add ",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/91",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-23",
+        "number": 91,
+        "changedFiles": 33,
+        "additions": 19,
+        "deletions": 14,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "image upload system updated",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/90",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-16",
+        "number": 90,
+        "changedFiles": 214,
+        "additions": 94,
+        "deletions": 120,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "image upload problems fixed ",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/89",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-14",
+        "number": 89,
+        "changedFiles": 196,
+        "additions": 100,
+        "deletions": 94,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "splash screen updated ",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/88",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-14",
+        "number": 88,
+        "changedFiles": 8,
+        "additions": 4,
+        "deletions": 4,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      },
+      {
+        "id": "MDExOlB1bGxSZXF1ZXN0NDA1NTk5NjAx",
+        "title": "logout problems fixed",
+        "url": "https://github.com/Back-to-Life/BackToLife-Web/pull/87",
+        "state": "MERGED",
+        "mergedBy": {
+            "url":"https://github.com/Senakbulut"
+        },
+        "createdAt": "2021-06-14",
+        "number": 87,
+        "changedFiles": 8,
+        "additions": 2,
+        "deletions": 6,
+        "baseRepository": {
+            "name": "Back-to-Life",
+            "url": "https://github.com/Back-to-Life/BackToLife-Web",
+            "owner": {
+              "avatarUrl": "",
+              "login": "",
+              "url": ""
+            }
+        }
+      }
+    ],
+    "open": 0,
+    "closed": 2,
+    "merged": 104,
+    "totalCount": 106
+  }
